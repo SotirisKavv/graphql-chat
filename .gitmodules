@@ -1,3 +1,0 @@
-[submodule "chat-app/client"]
-	path = chat-app/client
-	url = https://github.com/SotirisKavv/graphql-chat
